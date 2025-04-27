@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavanaainnyc
 - 👀 I’m interested in extraordinary unidentified unique concepts
 - 🌱 I’m currently learning Data Sciene at RV University, Bangalore
-- 💞️ I’m looking to collaborate on Artificial intelligence and Machine Laerning in medical field. 
+- 💞️ I’m looking to collaborate on Artificial intelligence and Machine Learning in medical field. 
 - 😄 Pronouns: She/her
 
 
